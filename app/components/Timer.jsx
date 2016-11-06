@@ -5,7 +5,7 @@ var Timer = React.createClass({
   render: function () {
     return (
       <div>
-        <h3>Timer.jsx</h3>
+        <h1 className="page-title">Countdown App</h1>
       </div>
     );
   }
